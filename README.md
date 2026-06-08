@@ -44,9 +44,9 @@ Loaded 114,000 tracks and examined column types, missing values, and the distrib
 
 | Tier | Range | Count |
 |---|---|---|
-| Low | 0–30 | 32,145 |
-| Medium | 30–50 | 28,087 |
-| High | 50–70 | 17,207 |
+| Low | 0-30 | 32,145 |
+| Medium | 30-50 | 28,087 |
+| High | 50-70 | 17,207 |
 | Hit | 70+ | 2,733 |
 
 **Binary target:** A `popular` flag (1 = popularity ≥ 70) was created for classification modelling. The 70-threshold captures the top ~4% of tracks - a deliberate choice to model genuine breakout success rather than mild above-average performance.
