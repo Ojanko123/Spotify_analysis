@@ -10,7 +10,7 @@ The findings are not what most people expect. Danceability and energy matter, bu
 
 ## Dataset
 
-- **Source:** [Spotify Tracks Dataset — Kaggle](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
+- **Source:** [Spotify Tracks Dataset - Kaggle](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
 - **Size:** 114,000 raw tracks --> 80,172 after cleaning
 - **Coverage:** 29,792 unique artists across 114 genres
 - **Features:** Audio characteristics (danceability, energy, loudness, valence, tempo, etc.), metadata (artist, genre, explicit flag), and Spotify popularity score (0–100)
