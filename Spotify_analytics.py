@@ -31,7 +31,7 @@ from scipy import stats
 import warnings
 warnings.filterwarnings('ignore')
 
-_dir = os.path.dirname(os.path.abspath(_file_))
+_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Seaborn style
 sns.set_theme(style='whitegrid', palette='husl')
